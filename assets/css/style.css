@@ -1,0 +1,25 @@
+body {
+    padding-left: 3rem;
+    padding-right: 10rem;
+}
+
+
+.titulo {
+    vertical-align: middle;
+    margin-top: 2rem;
+    
+}
+
+.logo {
+    text-align: right;
+    padding-left: 30rem;
+}
+
+.table {
+    margin-top: 4rem;
+}
+
+.datos {
+    font-weight: bolder;
+    margin-left: 1.3rem;
+}
